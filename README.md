@@ -42,4 +42,5 @@ npm start
 ## Deployment
 
 Deploy directly to Vercel (recommended for Next.js)
+
 Live Link: https://fitlog-lovat.vercel.app/
