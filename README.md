@@ -41,5 +41,5 @@ npm start
 
 ## Deployment
 
-Deploy directly to Vercel (recommended for Next.js), Netlify, or Cloudflare Pages — no environment variables are required.
+Deploy directly to Vercel (recommended for Next.js), Netlify
 Live Link: https://fitlog-lovat.vercel.app/
