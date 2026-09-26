@@ -2,8 +2,6 @@
 
 FitLog is a dark, no-nonsense gym companion: pick a lift, lock it into today's plan, and watch the week's work add up. Built for Assignment 6 (B14-A6-Fit-Log).
 
-**Live Link:** _add your deployed URL here_
-**GitHub Repository:** _add your repo URL here_
 
 ## Description
 
@@ -33,7 +31,6 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000
 
 ## Build
 
@@ -45,3 +42,4 @@ npm start
 ## Deployment
 
 Deploy directly to Vercel (recommended for Next.js), Netlify, or Cloudflare Pages — no environment variables are required.
+Live Link: https://fitlog-lovat.vercel.app/
